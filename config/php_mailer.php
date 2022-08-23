@@ -15,9 +15,9 @@ $PHP_MAILER_CONFIG = array(
 	'Encoding'		=> 'quoted-printable',	// '8bit', '7bit', 'binary', 'base64', and 'quoted-printable'
 	'CharSet'		=> 'utf-8',				// 'iso-8859-1' or 'utf-8'
 	'SMTPAuth'		=> true,				// true, for SMTP authentication via username/password
-	'Host'			=> 'smtp.example.org',  	
-	'Username'		=> 'mail@example.org', 
-	'Password'		=> 'secret password'			
+	'Host'			=> 'smtp.gmail.com',  	
+	'Username'		=> 'forumc2c@gmail.com', 
+	'Password'		=> '@123456A'			
 );
 /** config for PHPMailer **/
 ?>

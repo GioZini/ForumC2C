@@ -101,11 +101,6 @@
  <li><a href="index.php?mode=contact" title="{#contact_linktitle#}" rel="nofollow">{#contact_link#}</a></li>
 </ul>
 </div>
-{*
-Please donate if you want to remove this link:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=1922497
-*}
-<div id="pbmlf"><a href="https://mylittleforum.net/">powered by my little forum</a></div>
 </footer>
 
 

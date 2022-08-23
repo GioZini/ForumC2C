@@ -1,7 +1,7 @@
 <?php
 $db_settings['host'] = 'localhost';
 $db_settings['user'] = 'root';
-$db_settings['password'] = 'troll00h';
+$db_settings['password'] = 'root';
 $db_settings['database'] = 'forumc2c';
 $db_settings['settings_table'] = 'mlf2_settings';
 $db_settings['forum_table'] = 'mlf2_entries';
